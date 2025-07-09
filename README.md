@@ -5,7 +5,7 @@
 - 📰 I have an MS in Data Analytics
 - 🌱 I’m currently learning to use AI and Data Analysis packages in python
 - 💬 Ask me about joining the Army
-- ⚡ Fun fact: I have 18 years of experience in Satellite Communications
+- ⚡ Fun facts: I have 18 years experience in Satellite Communications. Very interested in using AI packages in Python to make music.
 
 ## Languages 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" align="center" height="30px" style="padding: 5px;">
