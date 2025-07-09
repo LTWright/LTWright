@@ -2,8 +2,8 @@
 
 ## I'm a LT @ US Army
 
--  📰 I have an MS in Data Analytics
-- 🌱 I’m currently learning AI and Data Analysis packages in the Python language
+- 📰 I have an MS in Data Analytics
+- 🌱 I’m currently learning to use AI and Data Analysis packages in python
 - 💬 Ask me about joining the Army
 - ⚡ Fun fact: I have 18 years of experience in Satellite Communications
 
